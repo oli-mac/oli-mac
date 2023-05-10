@@ -1,6 +1,12 @@
 # 💫 About Me:
-I'm currently working on developing interactive web applications <br>I'm looking to collaborate on projects that integrate AI into ordinary systems <br>I'm currently learning Artifice intelligence and machine learning
+Hi there, I'm Olyad Mulugeta 👋
+I'm a passionate software engineer with 2 years of experience in developing applications, creating robust software architecture, and implementing cutting-edge technologies. My expertise includes [List of Your Key Skills], and I love working on challenging projects that push my boundaries and allow me to learn something new every day.
 
+What I Do
+Develop scalable, maintainable, and performant applications that solve real-world problems
+Implement robust software architectures and design patterns to ensure the scalability and maintainability of the applications
+Collaborate with cross-functional teams to ensure that the projects meet the client's requirements and deliverables
+Continuously learn new technologies and frameworks to stay up-to-date with the latest industry trends
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@oli_mac_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/olyad-mulugeta-79875621b/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Oli_mac3?t=VBBwmNgJGZuBanPqyqkFMA&s=09) 
